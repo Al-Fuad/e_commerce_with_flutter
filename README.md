@@ -65,10 +65,34 @@ The following section showcases screenshots of the application in both normal an
 | ![Login](screenshots/login.jpeg) | ![Login Dark](screenshots/login_dark.jpeg) |
 | ![Signup](screenshots/signup.jpeg) | ![Signup Dark](screenshots/signup_dark.jpeg) |
 | ![Profile](screenshots/profile.jpeg) | ![Profile Dark](screenshots/profile_dark.jpeg) |
-| ![Product](screenshots/product_1.jpeg) | ![Product Dark](screenshots/product_1_dark.jpeg) |
+| ![Product 1](screenshots/product_1.jpeg) | ![Product 1 Dark](screenshots/product_1_dark.jpeg) |
 | ![Cart](screenshots/cart.jpeg) | ![Cart Dark](screenshots/cart_dark.jpeg) |
 | ![Order](screenshots/order.jpeg) | ![Order Dark](screenshots/order_dark.jpeg) |
 | ![Wishlist](screenshots/wishlist.jpeg) | ![Wishlist Dark](screenshots/wishlist_dark.jpeg) |
+| ![Account Created](screenshots/account_created.jpeg) | ![Account Created Dark](screenshots/account_created_dark.jpeg) |
+| ![Address](screenshots/address.jpeg) | ![Address Dark](screenshots/address_dark.jpeg) |
+| ![Add Address](screenshots/add_address.jpeg) | ![Add Address Dark](screenshots/add_address_dark.jpeg) |
+| ![Brand Product](screenshots/brand_product.jpeg) | ![Brand Product Dark](screenshots/brand_product_dark.jpeg) |
+| ![Brands](screenshots/brands.jpeg) | ![Brands Dark](screenshots/brands_dark.jpeg) |
+| ![Cat](screenshots/cat.jpeg) | ![Cat Dark](screenshots/cat_dark.jpeg) |
+| ![Confirm Email](screenshots/confirm_email.jpeg) | ![Confirm Email Dark](screenshots/confirm_email_dark.jpeg) |
+| ![Forget Password](screenshots/forget_password.jpeg) | ![Forget Password Dark](screenshots/forget_password_dark.jpeg) |
+| ![Home](screenshots/home.jpeg) | ![Home Dark](screenshots/home_dark.jpeg) |
+| ![On Boarding 1](screenshots/on_boarding_1.jpeg) | ![On Boarding 1 Dark](screenshots/on_boarding_1_dark.jpeg) |
+| ![On Boarding 2](screenshots/on_boarding_2.jpeg) | ![On Boarding 2 Dark](screenshots/on_boarding_2_dark.jpeg) |
+| ![On Boarding 3](screenshots/on_boarding_3.jpeg) | ![On Boarding 3 Dark](screenshots/on_boarding_3_dark.jpeg) |
+| ![Order Review](screenshots/order_review.jpeg) | ![Order Review Dark](screenshots/order_review_dark.jpeg) |
+| ![Payment Success](screenshots/payment_success.jpeg) | ![Payment Success Dark](screenshots/payment_success_dark.jpeg) |
+| ![Popular](screenshots/popular.jpeg) | ![Popular Dark](screenshots/popular_dark.jpeg) |
+| ![Product 2](screenshots/product_2.jpeg) | ![Product 2 Dark](screenshots/product_2_dark.jpeg) |
+| ![Profile](screenshots/profile.jpeg) | ![Profile Dark](screenshots/profile_dark.jpeg) |
+| ![Reset Password](screenshots/reset_password.jpeg) | ![Reset Password Dark](screenshots/reset_password_dark.jpeg) |
+| ![Review](screenshots/review.jpeg) | ![Review Dark](screenshots/review_dark.jpeg) |
+| ![Settings 1](screenshots/settings_1.jpeg) | ![Settings 1 Dark](screenshots/settings_1_dark.jpeg) |
+| ![Settings 2](screenshots/settings_2.jpeg) | ![Settings 2 Dark](screenshots/settings_2_dark.jpeg) |
+| ![Splash](screenshots/splash.jpeg) | ![Splash Dark](screenshots/splash_dark.jpeg) |
+| ![Store 1](screenshots/store_1.jpeg) | ![Store 1 Dark](screenshots/store_1_dark.jpeg) |
+| ![Store 2](screenshots/store_2.jpeg) | ![Store 2 Dark](screenshots/store_2_dark.jpeg) |
 
 ## Contributing
 
