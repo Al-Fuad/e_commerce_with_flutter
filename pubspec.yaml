@@ -1,0 +1,99 @@
+name: e_commerce
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+# ------------------ Packages ------------------ #
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #    Utility Packages
+  http: ^1.1.0
+  intl: ^0.19.0
+  logger: ^2.0.1
+  lottie: ^3.1.2
+  url_launcher: ^6.1.14
+  flutter_native_splash: ^2.4.1
+  smooth_page_indicator: ^1.1.0
+  connectivity_plus: ^6.0.3
+
+  #  Icons
+  iconsax: ^0.0.8
+  cupertino_icons: ^1.0.6
+
+  #  State Management
+  get: ^4.6.5
+  get_storage: ^2.1.1
+
+  #  Product Specific
+  readmore: ^3.0.0
+  carousel_slider: ^4.2.1
+  flutter_rating_bar: ^4.0.1
+  percent_indicator: ^4.2.3
+
+  #  Firebase
+  firebase_core: ^3.2.0
+
+# ------------------ Packages End ------------------ #
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+
+  # ------------------ Local Assets ------------------ #
+
+  assets:
+    - assets/icons/brands/
+    - assets/icons/categories/
+    - assets/icons/payment_methods/
+    - assets/images/on_boarding_images/
+    - assets/images/animations/
+    - assets/images/banners/
+    - assets/images/products/
+    - assets/images/user/
+    - assets/logos/
+
+
+  # ------------------ Local Assets ------------------ #
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Roboto-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Roboto-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 800
+        - asset: assets/fonts/Roboto-BoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/Roboto-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Roboto-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Roboto-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Tiny5-Regular.ttf
+          weight: 400
